@@ -1,0 +1,14 @@
+{
+	"name": "email",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"json": "json-server --watch email.json --port 8888"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"json-server": "^0.17.1"
+	}
+}
